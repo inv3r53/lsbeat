@@ -4,6 +4,7 @@ import (
 	"fmt"
 	"io/ioutil"
   "time"
+	"path/filepath"
 
 	"github.com/elastic/beats/libbeat/beat"
 	"github.com/elastic/beats/libbeat/common"
